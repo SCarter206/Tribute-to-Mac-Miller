@@ -19,5 +19,6 @@
 		<li><a href="https://www.youtube.com/watch?v=_sV0S8qWSy0">The Way feat.Mac Miller</a></li>
 		<li><a href="https://www.youtube.com/watch?v=8bL3znGwXFc">Dont Mind If I Do</a></li>
 	</ol>
+		<p>A few good <a href ="/Albums-Page.html"><b>Albums</b></a></p>
 	</body>
 <html>
