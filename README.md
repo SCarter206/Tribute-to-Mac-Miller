@@ -1,8 +1,5 @@
 <html>
 	<body>
-		<head>
-			<title>In Memory of Mack Miller</title>
-		</head>
 		<h1>In Memory of Mac Miller </h1>
 			<p>January 19, 1992 – September 7, 2018</p>
 		<h4>another gone too soon...<h4>
@@ -19,5 +16,6 @@
 		<li><a href="https://www.youtube.com/watch?v=_sV0S8qWSy0">The Way feat.Mac Miller</a></li>
 		<li><a href="https://www.youtube.com/watch?v=8bL3znGwXFc">Dont Mind If I Do</a></li>
 	</ol>
+		<p>A few good <a href ="https://github.com/SCarter206/Tribute-to-Mac-Miller/blob/SCarter206-patch-1/albums-page.md" target="_blank"><b>Albums</b></a></p>
 	</body>
 <html>
