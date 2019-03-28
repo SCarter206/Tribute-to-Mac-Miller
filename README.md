@@ -1,8 +1,5 @@
 <html>
 	<body>
-		<head>
-			<title>In Memory of Mack Miller</title>
-		</head>
 		<h1>In Memory of Mac Miller </h1>
 			<p>January 19, 1992 – September 7, 2018</p>
 		<h4>another gone too soon...<h4>
