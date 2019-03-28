@@ -1,8 +1,5 @@
 <html>
-  <body>
-    <head>
-      <title>Albums</title>
-    </head>
+	<body>
 		<h1>A Few Great Albums</h1>
 	<ol>
 		<li>Blue Slde Park 2011</li>
