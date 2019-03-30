@@ -1,9 +1,7 @@
 <html>
 	<body>
 		<head>
-			h1, h4, h2, li {
-				align-text:center;
-			}
+			<link href="styles.css" type="text/css" rel="stylesheet" />
 		</head>
 		<h1>In Memory of Mac Miller </h1>
 			<p>January 19, 1992 – September 7, 2018</p>
