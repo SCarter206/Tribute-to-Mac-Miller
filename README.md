@@ -1,7 +1,7 @@
 <html>
 	<body>
 		<head>
-			<link href ="main_pic.text/css" type=".text/css" rel="style-sheet"/>
+			<link href ="main_pic.text" type=".text" rel="style_sheet"/>
 		</head>
 		<h1>In Memory of Mac Miller </h1>
 			<p>January 19, 1992 – September 7, 2018</p>
