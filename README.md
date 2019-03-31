@@ -1,11 +1,8 @@
 <html>
 	<body>
-		<head>
-			<align="center" />
-		</head>
-		<h1 align="center">In Memory of Mac Miller </h1>
+		<h1>In Memory of Mac Miller </h1>
 			<p>January 19, 1992 – September 7, 2018</p>
-		<h4>another gone too soon...<h4>
+		<h4 align="center">another gone too soon...<h4>
 		<img src ="http://www.stampthewax.com/wp-content/uploads/2014/06/mac-miller.jpg" alt="mac-miller" title="mac-miller with an umbrella"
 		width="600" height="400"/>
 	<ul>
